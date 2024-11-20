@@ -1,0 +1,17 @@
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\bin\Debug\net9.0-windows\TaskManagerWinForms.exe
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\bin\Debug\net9.0-windows\TaskManagerWinForms.deps.json
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\bin\Debug\net9.0-windows\TaskManagerWinForms.runtimeconfig.json
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\bin\Debug\net9.0-windows\TaskManagerWinForms.dll
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\bin\Debug\net9.0-windows\TaskManagerWinForms.pdb
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.csproj.AssemblyReference.cache
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.AssemblyInfoInputs.cache
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.AssemblyInfo.cs
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.csproj.CoreCompileInputs.cache
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskMana.BF99DCF1.Up2Date
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.dll
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\refint\TaskManagerWinForms.dll
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.pdb
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\TaskManagerWinForms.genruntimeconfig.cache
+C:\Users\mabbe\Desktop\C# Projects\TaskManagerWinForms\obj\Debug\net9.0-windows\ref\TaskManagerWinForms.dll
