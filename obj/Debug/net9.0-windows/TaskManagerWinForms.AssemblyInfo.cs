@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskManagerWinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8962fbf9b10f2c6dbd9beeacf7e26bab46d65866")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskManagerWinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskManagerWinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

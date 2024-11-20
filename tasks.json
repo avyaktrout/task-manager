@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "Name": "Learn C# Basics",
+    "Description": "Don't forget to learn the basics of C#!",
+    "DueDate": "2024-11-20T00:36:18.1034473-08:00",
+    "IsCompleted": false
+  }
+]
